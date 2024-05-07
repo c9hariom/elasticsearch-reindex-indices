@@ -65,7 +65,7 @@ clear
 echo "---------------------------- NOTICE ----------------------------------"
 echo " Created  by : Hartfordfive "
 echo " Modified by : Hariom Singh"
-echo "Email : @c9hariom / hariom.1.singh.ext@nokia.com"
+echo "Email : @c9hariom"
 echo "----------------------------------------------------------------------"
 sleep 5
 
